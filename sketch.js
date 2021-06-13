@@ -1,22 +1,62 @@
+var friends = ['sam', 'john', 'ramy'];
 
-var a = prompt('enter the first variable:');
-var b = prompt('enter the second variable:');
+function setup() {
+  
 
-function setup(){
-
-  var b2 = createButton("click here to swap");
-      b2.mousePressed(swap);
+   c
+  console.log("Hi ",friends[2],"!Please grace us with your presence at my birthday celebration");
 }
 
-function draw(){
 
-
+function draw() {
+  background(220);
 }
 
-function swap(){
 
-  [a,b] =[b,a];
 
-  console.log("value after a afyer swapping", +a);
-  console.log("value after b afyer swapping", +b);
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+console.log(friends);
+  x
+*/
+
+
+
